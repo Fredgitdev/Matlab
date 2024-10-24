@@ -1,0 +1,40 @@
+.image-one{
+    width: 100%; /* The image will take the full width of its container */
+    height: auto; /* This keeps the height in the right proportion */
+    max-width: 100px;
+    display: block; /* center the image */
+    margin: 0 auto; /*centers the image horizontally */
+}
+
+h1 {
+    text-align: center; /* Centers horizontally */
+    margin-top: 20px; /* Adds some space above the heading */
+    font-size: 36px; /* Adjusts the size of the font */
+    color: #000; /* Sets the color of the text, you can change this to any color you like */
+    font-family: Arial, sans-serif; /* Sets the font style */
+}
+
+h3 {
+    color: saddlebrown; /* Sets the color of the text to gold */
+    font-size: 24px; /* Adjusts the size of the font */
+    font-weight: bold; /* Makes the text bold */
+    font-family: Arial, sans-serif; /* Sets the font style */
+    margin: 10px 0; /* Adds some space above and below the heading */
+}
+
+body {
+    background-color: #f5f5dc; /* Sets a creamy white background */
+    font-family: Arial, sans-serif; /* Sets a default font for the entire page */
+    margin: 0; /* Removes any default margin */
+    padding: 0; /* Removes any default padding */
+}
+
+body {
+    background-color: #f5f5dc; /* Sets a creamy white background */
+    font-family: Arial, sans-serif; /* Sets a default font for the entire page */
+    margin: 50px; /* Adds a 20px margin around the entire page */
+    padding: 0; /* Keeps padding at 0 */
+}
+
+
+
